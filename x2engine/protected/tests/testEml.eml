@@ -1,0 +1,184 @@
+Delivered-To: dropbox@x2software.com
+Received: by 10.216.49.147 with SMTP id x19csp111542web;
+        Fri, 14 Sep 2012 14:04:59 -0700 (PDT)
+Received: by 10.68.236.67 with SMTP id us3mr6558342pbc.80.1347656698193;
+        Fri, 14 Sep 2012 14:04:58 -0700 (PDT)
+Return-Path: <john@x2engine.com>
+Received: from mail-pb0-f46.google.com (mail-pb0-f46.google.com [209.85.160.46])
+        by mx.google.com with ESMTPS id sb7si4072129pbc.271.2012.09.14.14.04.49
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 14 Sep 2012 14:04:58 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.160.46 is neither permitted nor denied by best guess record for domain of john@x2engine.com) client-ip=209.85.160.46;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.160.46 is neither permitted nor denied by best guess record for domain of john@x2engine.com) smtp.mail=john@x2engine.com
+Received: by pbbrr13 with SMTP id rr13so6196368pbb.19
+        for <demitri@x2engine.com>; Fri, 14 Sep 2012 14:04:49 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=from:content-type:subject:date:references:to:message-id
+         :mime-version:x-mailer:x-gm-message-state;
+        bh=FOm8FWvdNNGgVmGbQ8hTpibR7CWztZ8tFZeOOljx64Y=;
+        b=p29sFEEhwioLWMYq0ODB82LR0qbqD2c6anNQf5rx6M0FbMkAwJ68LIEAcG44u+9kLB
+         WcIOo5cKkP6ycn8BLAgYMV7DFFFCvc0g4PCcIoT7NNiXo9+58VpyMWdxEtvFHZ24INpE
+         wbMe/h4upxf1HMH02mJ+PD1pyp5KBS+DetlqhOO9RGWAeoh/0yvVVeB9tduR04KRyDGr
+         prEUFFkeu80/7KXlycabWrZLbQV5Y8uvV+VxoCV9ukI4981SiL6wmFIUEdEqSseYlbpV
+         LsfA6xc4I+eX4x+MoH8lHhbnP+kUXoP9dYCtyKqCJzTtfH1FnxXpZN8wkwgMMxXplKo7
+         g55g==
+Received: by 10.68.204.137 with SMTP id ky9mr6558789pbc.90.1347656689413;
+        Fri, 14 Sep 2012 14:04:49 -0700 (PDT)
+Return-Path: <john@x2engine.com>
+Received: from [192.168.1.108] (50-76-38-36-ip-static.hfc.comcastbusiness.net. [50.76.38.36])
+        by mx.google.com with ESMTPS id qb6sm1582285pbb.18.2012.09.14.14.04.47
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 14 Sep 2012 14:04:48 -0700 (PDT)
+From: John Roberts <john@x2engine.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_8109B02D-B8CA-4331-B7D3-F69C26B8B978"
+Subject: Fwd: [Chargify Support] Re: Gateway: CCV not sent to Authorize.net (ticket #8106)
+Date: Fri, 14 Sep 2012 14:04:46 -0700
+References: <NRNEXF2Y_50538dd269d8a_30ede33a781036467_sprut@zendesk.com>
+To: dropbox@x2software.com
+Message-Id: <81BC0C12-2CB1-43DC-8F54-97D5F44566DA@x2engine.com>
+Mime-Version: 1.0 (Mac OS X Mail 6.0 \(1486\))
+X-Mailer: Apple Mail (2.1486)
+X-Gm-Message-State: ALoCoQmJIoJCMg6uOQhwjle+Q4hPZkAiAL7x2uxb0sgwftjSPK9cb0cOEaxkrg2qWJqET3i6B4xw
+
+
+--Apple-Mail=_8109B02D-B8CA-4331-B7D3-F69C26B8B978
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=us-ascii
+
+
+
+Begin forwarded message:
+
+> From: Marco Zampieri <marco.zampieri@esqogito.com>
+> Subject: Re: Partner Agreement
+> Date: September 14, 2012 9:09:50 AM PDT
+> To: John Roberts <john@x2engine.com>
+> Cc: Filippo De Guio <filippo.deguio@esqogito.com>
+>=20
+> Hi John
+>=20
+> Ok for a call on Monday 9 - 9.30 PST ( I've just schedule a meeting =
+until 9.00 PST with a unified communication productor).
+>=20
+> Thanks
+>=20
+> Marco
+>=20
+> Il giorno 14/set/2012 18:00, "John Roberts" <john@x2engine.com> ha =
+scritto:
+> Hi Marco,
+>=20
+> We should talk through these items in a via a skype call. Are you =
+available now, or on Monday 9:00AM PST?
+>=20
+> Best,
+> John
+>=20
+> skype: x2engine
+>=20
+>=20
+>=20
+> John Roberts
+> Founder & CEO=20
+> X2Engine Inc.=20
+> www.x2engine.com=20
+> john@x2engine.com
+> 1-831-332-0620
+>=20
+>=20
+> On Sep 14, 2012, at 6:04 AM, Marco Zampieri =
+<marco.zampieri@esqogito.com> wrote:
+>=20
+>> Hi John
+>>=20
+>> We have 2 questions:
+>>=20
+>> 1 - in point 1.1 there's this clause:=20
+>>=20
+>>  "Reseller may not authorize or appoint any dealers, sub-resellers, =
+agents, or other third parties to advertise, promote, distribute, and =
+resell the Software. ".
+>>=20
+>> Every productors grant us to do this (also QlikTech).=20
+>> Could you reconsider this point? We just have some sub-reseller =
+network....
+>>=20
+>> 2 - We want register the italian domain of X2Engine (something like =
+X2EngineItalia or similar) is possible? We want to traduce your site and =
+your marketing material in the italian language. Your agreement not =
+grant this!
+>>=20
+>> Thanks=20
+>>=20
+>> Marco
+>>=20
+>> dott. Marco Zampieri
+>> Technical Director
+>>=20
+>> Esqogito Srl
+>> Galleria Crispi, 5
+>> Vicenza, 36100 VI
+>> Italy
+>>=20
+>> Work: 0444962223
+>> Fax: 0444962535
+>> Email: marco.zampieri@esqogito.com
+>>=20
+>>=20
+>> Professional Profile
+>>=20
+>>=20
+>>=20
+>>=20
+>>=20
+>> L'informativa sul trattamento dei dati personali ai sensi dell'art. =
+13 del Dlgs. n. 196/03 =E8 disponibile sul sito www.esqogito.com; in =
+caso di impossibilit=E0 di accedere al sito pu=F2 essere richiesta =
+telefonicamente al n. 0444/962223.
+>>=20
+>> Nota di riservatezza: il presente messaggio e ogni suo allegato =
+contengono informazioni strettamente riservate.=20
+>>=20
+>> Unico soggetto legittimato ad usarlo, copiarlo e, sotto la propria =
+responsabilit=E0 , diffonderlo =E8 esclusivamente il destinatario sopra =
+indicato.=20
+>>=20
+>> Chiunque ricevesse questo messaggio per errore =E8 informato che =
+trattenerlo, copiarlo, diffonderlo a persone diverse dal destinatario =E8 =
+severamente proibito, ed =E8 pregato di rinviarlo immediatamente al =
+mittente distruggendone l'originale.
+>>=20
+>> Esqogito Srl - Galleria Crispi 5 - 36100 Vicenza Tel. 0444/962223 - =
+Fax:0444/962535 - e-mail: info@esqogito.com
+>>=20
+>> Registro Imprese e P.Iva 03740200245 - Capitale Sociale =80 100.000.
+>>=20
+>>=20
+>>=20
+>>=20
+>> 2012/9/4 John Roberts <john@x2engine.com>
+>> Hi Marco,
+>>=20
+>> My last email did not format correctly. Attached is our partner =
+agreement. Lets chat this week to get this completed so we can get =
+started. We will also add you to our website.=20
+>>=20
+>> Best,
+>> John
+>>=20
+>>=20
+>> John Roberts
+>> Founder & CEO
+>> X2Engine Inc.
+>> Santa Cruz, CA USA
+>> http://www.x2engine.com
+>> Phone: 1-831-222-5333
+>> Cell: 1-831-332-0620
+>> Email: john@x2engine.com
+>>=20
+>=20
+
+
+--Apple-Mail=_6FFF17C3-9230-4FD2-B249-A690D9FF50DD
